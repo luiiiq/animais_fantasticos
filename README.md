@@ -18,7 +18,7 @@ Seção de contato;
 Interações e animações utilizando JavaScript;
 Layout adaptado para diferentes tamanhos de tela.
 
-Tecnologias utilizadas
-HTML5 — estrutura e organização das páginas;
-CSS3 — estilização, layout, responsividade e animações;
+Tecnologias utilizadas<br>
+HTML5 — estrutura e organização das páginas;<br>
+CSS3 — estilização, layout, responsividade e animações;<br>
 JavaScript — interações e funcionalidades do site.
