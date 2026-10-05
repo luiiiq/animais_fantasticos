@@ -1,6 +1,6 @@
 **Animais Fantásticos**
 
-Projeto desenvolvido com HTML, CSS e JavaScript, inspirado em um site de apresentação de animais. O projeto apresenta informações sobre diferentes espécies, estatísticas e uma área de contato, além de interações desenvolvidas com JavaScript.
+Projeto desenvolvido com HTML, CSS e JavaScript, inspirado em um site de apresentação de animais. O projeto apresenta informações sobre diferentes espécies, estatísticas e também uma área de contato, além de interações desenvolvidas com JavaScript.
 
 - Sobre o projeto
 
